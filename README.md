@@ -203,12 +203,12 @@ The MVP is complete, so nothing new is needed to finish it. These are the remain
 
 | File | Designed in our spec by (D2) | How the code was made | Reviewed / tested by |
 |---|---|---|---|
-| `LinkedChain.java` | (provided) | Provided by CS 2114 staff; used unchanged | |
-| `MediaItem.java` | Luci (class design), Ian (signatures) | GenAI-written (Claude) from our spec | |
-| `Song.java` | Luci, Ian | GenAI-written (Claude) from our spec | |
-| `Podcast.java` | Luci, Ian | GenAI-written (Claude) from our spec | |
-| `Playlist.java` | Luci, Ian, Emma | GenAI-written (Claude) from our spec | |
-| `Library.java` | Scope stretch goal (multiple playlists) | GenAI-written (Claude) | |
+| `LinkedChain.java` | (provided) | Provided by CS 2114 staff; used unchanged |Ian|
+| `MediaItem.java` | Luci (class design), Ian (signatures) | GenAI-written (Claude) from our spec |Luci |
+| `Song.java` | Luci, Ian | GenAI-written (Claude) from our spec |Emma |
+| `Podcast.java` | Luci, Ian | GenAI-written (Claude) from our spec |Sajjad |
+| `Playlist.java` | Luci, Ian, Emma | GenAI-written (Claude) from our spec | Emma|
+| `Library.java` | Scope stretch goal (multiple playlists) | GenAI-written (Claude) |Luci |
 | `History.java` | Not in spec | GenAI-written (Claude) | |
 | `InputHelper.java` | Ian, Sajjad (validation) | GenAI-written (Claude) from our spec | |
 | `PlaylistMenu.java` | Luci, Sajjad | GenAI-written (Claude) from our spec | |
