@@ -222,6 +222,4 @@ The MVP is complete, so nothing new is needed to finish it. These are the remain
 
 ### How we used GenAI
 
-We gave Claude (Anthropic) our Deliverable 2 specification, the provided `LinkedChain.java`, and this deliverable's rubric. Claude wrote the prototype code, the JUnit tests, and a first draft of this README from our spec: our class split, equality rule, validation table, and test plan. Where the provided chain differed from what our spec assumed, it recorded the change in the Reflection. It also ran the tests and checked that they catch a deliberately broken `Playlist` refill.
 
-*[Team: describe here, in your own words, what you each read, ran, questioned, or changed, and anything you disagreed with.]*
