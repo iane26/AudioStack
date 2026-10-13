@@ -221,5 +221,5 @@ The MVP is complete, so nothing new is needed to finish it. These are the remain
 | `README.md` | All | GenAI-drafted (Claude); team to review | |
 
 ### How we used GenAI
-
+Claude helped us build a small starting Java prototype from our Deliverable 2 specification, which we then fit to the staff-provided LinkedChain. It also drafted our Javadocs, wrote JUnit test cases, and polished the phrasing in our documentation. When our tests caught failures in the playlist display and search comparisons, we used them to direct our fixes. The design itself comes from our team’s specification and the instructor’s reusable chain; no new data structure was generated for this assignment. At the end, we used Claude to clean up the code’s formatting, solve issues we couldn’t fix on our own, and shorten the README.
 
